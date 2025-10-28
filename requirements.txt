@@ -1,0 +1,13 @@
+scikit-learn
+seaborn
+matplotlib
+notebook
+pytorch
+torchvision
+torchaudio
+transformers
+diffusers
+accelerate
+langchain
+langchain-openai
+python-dotenv

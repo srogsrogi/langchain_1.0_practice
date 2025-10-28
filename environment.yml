@@ -1,0 +1,21 @@
+name: ai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - ipykernel
+  - seaborn
+  - matplotlib
+  - numpy
+  - notebook
+  - pandas
+  - pytorch
+  - torchvision
+  - torchaudio
+  - transformers
+  - diffusers
+  - accelerate
+  - langchain
+prefix: C:\Users\SSAFY\miniconda3\envs\ai
